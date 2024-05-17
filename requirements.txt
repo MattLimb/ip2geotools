@@ -2,3 +2,4 @@ pyquery
 geocoder
 geoip2
 IP2Location
+dicttoxml
